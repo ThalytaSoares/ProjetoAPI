@@ -13,9 +13,3 @@ E ele acesse a página do Login
 E ele preenche seus credenciais válidas
 Quando ele clicar em "Acessar"
 Então ele deverá ser direcionado para a página principal
-
-Cenário:Login inválido
-E ele acesse a página do Login
-E ele preenche uma das credenciais inválidas
-Quando ele clicar em "Acessar"
-Então ele deverá ser direcionado para a página principal
